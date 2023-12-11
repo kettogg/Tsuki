@@ -1,0 +1,34 @@
+{
+  "name": "tsuki",
+  "displayName": "Tsuki",
+  "description": "A dark theme matching theme for Nya-Kde rice!",
+  "version": "0.0.1",
+  "publisher": "Re1san",
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/re1san/Tsuki"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "tsuki",
+    "nya",
+    "arch",
+    "linux"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tsuki",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tsuki-color-theme.json"
+      }
+    ]
+  }
+}
