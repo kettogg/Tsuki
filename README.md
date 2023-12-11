@@ -14,23 +14,15 @@
 
 ## Installation
 
-On [MarketPlace](https://marketplace.visualstudio.com/items?itemName=re1san.tsuki)
+Get it on [MarketPlace](https://marketplace.visualstudio.com/items?itemName=re1san.tsuki)
 
-## Prefered User Settings (JSON) 
+## Fonts Used
 
-```json
-{
-    "editor.tabSize": 2,
-    "editor.fontSize": 16,
-    "editor.fontFamily": "'Iosevka Nerd Font'",
-    "workbench.colorTheme": "Tsuki"
-}
-```
-## Font Used
-
-Iosevka Nerd Font Download: https://www.nerdfonts.com/font-downloads
+Lexend(for UI) [Download](https://fonts.google.com/specimen/Lexend)
+Iosevka Nerd Font(Editor Font) [Download](https://www.nerdfonts.com/font-downloads)
 
 ## Misc
 
 This theme was made for my Nya rice, you can find my rice [here](https://github.com/re1san/Kde-Dots)
 
+*If you like this theme consider starring this repo or on VS-Code marketplace, Thankyou!*
