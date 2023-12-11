@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/re1san/Tsuki/raw/main/.github/assests/preview0.png">
+  <img src="https://github.com/re1san/Tsuki/blob/main/.github/assets/preview0.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="https://github.com/re1san/Tsuki/raw/main/.github/assests/preview1.png">
+  <img src="https://github.com/re1san/Tsuki/blob/main/.github/assets/preview1.png?raw=true">
 </p>
 
 ## Installation
 
-On [MarketPlace]()
+On [MarketPlace](https://marketplace.visualstudio.com/items?itemName=re1san.tsuki)
 
 ## Prefered User Settings (JSON) 
 
