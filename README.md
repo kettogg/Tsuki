@@ -18,7 +18,7 @@ Get it on [MarketPlace](https://marketplace.visualstudio.com/items?itemName=re1s
 
 ## Fonts Used
 
-Lexend(for UI) [Download](https://fonts.google.com/specimen/Lexend)
+Lexend(for UI) [Download](https://fonts.google.com/specimen/Lexend)  
 Iosevka Nerd Font(Editor Font) [Download](https://www.nerdfonts.com/font-downloads)
 
 ## Misc
