@@ -3,7 +3,7 @@
     <img src=".github/assets/tsuki_gh.png" alt="Logo" width="200p" height="112">
   </a>
   <br/>
-  <h3 align="center" style="font-style: italic">An Elegant and Clean dark theme for VS-Code!</h3>
+  <h3 align="center">An Elegant and Clean dark theme for VS-Code!</h3>
 
   <p align="center">
     <br/>

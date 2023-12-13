@@ -4,6 +4,7 @@
   "description": "An elegant and clean dark theme for Vs-code!",
   "publisher": "re1san",
   "icon": ".github/assets/icon.png",
+  "version": "0.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/re1san/Tsuki"
