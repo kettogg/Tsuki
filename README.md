@@ -1,9 +1,7 @@
 <div align="center">
   <a href="https://github.com/re1san/Tsuki">
-    <img src=".github/assets/icon.png" alt="Logo" width="80" height="80">
+    <img src=".github/assets/icon_gh.png" alt="Logo">
   </a>
-
-  <h2 align="center">Tsuki</h3>
 
   <p align="center">
     An Elegant and Clean dark theme for VS-Code!
