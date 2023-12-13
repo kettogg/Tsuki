@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/re1san/Tsuki">
-    <img src=".github/assets/icon_gh.png" alt="Logo">
+    <img src=".github/assets/tsuki_gh.png" alt="Logo">
   </a>
 
   <p align="center">
