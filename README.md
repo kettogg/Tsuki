@@ -1,10 +1,12 @@
 <div align="center">
   <a href="https://github.com/re1san/Tsuki">
-    <img src=".github/assets/tsuki_gh.png" alt="Logo">
+    <img src=".github/assets/tsuki_gh.png" alt="Logo" width="200p" height="112">
   </a>
-
+  <br/>
+  <hr/>
+  <br/>
   <p align="center">
-    An Elegant and Clean dark theme for VS-Code!
+    <span style="font-style: italic">An Elegant and Clean dark theme for VS-Code!</span>
     <br />
     <a href="https://github.com/re1san/Tsuki">View Demo</a>
     ·
@@ -13,6 +15,8 @@
     <a href="https://github.com/re1san/Tsuki/issues">Request Feature</a>
   </p>
 </div>
+ 
+<br/>
 <p align="center">
   <img src="https://github.com/re1san/Tsuki/blob/main/.github/assets/preview0.png?raw=true">
 </p>
